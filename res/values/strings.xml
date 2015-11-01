@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <string name="app_name">News-on go</string>
+    <string name="cats">Categories</string>
+    <string name="cancel">Cancel</string>
+    <string name="quicknews">Quick News</string>
+	<string name="savecat">Save New Category</string>
+	<string name="viewsaved">View Saved Categories</string>
+    <string name="newsite">Enter RSS URL</string>
+     <string name="newcat">Save New Category </string>
+     <string name="savecategory">Save Category </string>
+     <string name="savedcates">Saved Categories </string>
+
+     
+     
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="blue">#69F</color>
+    <color name="grey">#C0C0C0</color>
+ <color name="green">#00FF00</color>
+    <string name="buttontext">Click Me!</string>
+    <string name="cat_prompt">Choose a category</string>
+    <string-array name="cats_array">
+        <item>Politics</item>
+        <item>Stock</item>
+        <item>Entertainment</item>
+        <item>Technology</item>
+           </string-array>
+    
+    <string name="india">India</string>
+    <string name="world">World</string>
+    <string name="sports">Sports</string>
+     <string name="stock">Stock</string>
+    <string name="addnew">+Add Category</string>
+    <string name="unsaved_changes_title">Unsaved Changes</string>
+    <string name="unsaved_changes_message">Would you like to add this category?</string>
+    <string name="discard">Discard</string>
+</resources>

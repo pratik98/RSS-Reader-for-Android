@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="@color/grey">
+	
+<!-- 	<TextView 
+		android:id="@+id/label" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" 
+		android:text="Enter RSS URL:" 
+		android:textSize="22dp"
+		android:gravity="center"
+		android:textColor="@color/white"
+		android:background="@color/blue"/>
+		
+	<EditText 
+		android:id="@+id/rssURL" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" 
+		android:background="@android:drawable/editbox_background" />
+ -->
+	<Button 
+		android:id="@+id/fetchRss" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" 
+		
+		android:text="Get Updated News" />
+
+ 
+<ListView 
+		android:id="@+id/rssListView" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		 
+		 />
+ 
+	
+</LinearLayout>
